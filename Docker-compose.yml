@@ -6,7 +6,7 @@ services:
     depends_on:
       - db
     volumes:
-      - .php/src:/var/www/html/
+      - /var/www/html/web-php-bookstoreQ
     ports:
       - 8000:80
     networks:
