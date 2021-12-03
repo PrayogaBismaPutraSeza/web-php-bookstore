@@ -6,7 +6,7 @@ services:
     depends_on:
       - db
     volumes:
-      - /var/www/html/web-php-bookstoreQ
+      - .php/src:/var/www/html/
     ports:
       - 8000:80
     networks:
@@ -17,7 +17,7 @@ services:
       image: mysql
       restart: always
       environment:
-        MYSQL_ROOT_PASSWORD: admin
+        MYSQL_ROOT_PASSWORD: root
         MYSQL_DATABASE: buku
       ports:
         - "3306:3306"
