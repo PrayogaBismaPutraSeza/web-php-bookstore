@@ -24,14 +24,13 @@
 
             <div class="address-wrap">
               <h4 class="uppercase">Alamat</h4>
-              <address class="address">Jl. Tentara Pelajar 111, Pacitan, Jawa Timur</address>
+              <address class="address">Jl. A. Yani No.189, Krajan, Kedungjambe, Singgahan, Kabupaten Tuban, Jawa Timur 62361</address>
             </div>
 
             <h4 class="uppercase">Informasi Kontak</h4>
             <ul class="contact-info-list">
-              <li><span>No. Hp: </span><a href="tel:+6287739211471">+6287739211471</a></li>
-              <li><span>E-mail: </span><a href="mailto:rinoridlojulianto@gmail.com" class="sliding-link">rinoridlojulianto@gmail.com</a></li>
-              <li><span>Telegram: </span><a href="https://t.me/@ZurinArctus" target="_blank">@ZurinArctus</a></li>
+              <li><span>No. Hp: </span><a href="tel:+6281332565853">+6281332565853</a></li>
+              <li><span>E-mail: </span><a href="mailto:prayogabismap@gmail.com">prayogabismap@gmail.com"</a></li>
             </ul>
 
             <h4 class="uppercase">Jam Kerja</h4>

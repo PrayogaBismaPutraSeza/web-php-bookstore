@@ -35,7 +35,7 @@
                     <div class="logo-wrap text-center">
                       <a href="index.php">
                         <!--<img class="logo" src="img/logo_dark.png" alt="logo">-->
-                        <h4 class="logo"><b>ZURIN BOOKSTORE</b><h4>
+                        <h4 class="logo"><b>YOZORA BOOKSTORE</b><h4>
                       </a>
                     </div>
                   </div>

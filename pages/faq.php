@@ -28,11 +28,11 @@
                 </p>
               </div>
               <div class="acc-panel">
-                <a href="#">Di mana lokasi fisik zurin bookstore?</a>
+                <a href="#">Di mana lokasi fisik yozora bookstore?</a>
               </div>
               <div class="panel-content">
                 <p>
-                    Zurin Bookstore dapat Anda datangi di Jl. Tentara Pelajar no. 111 RT3/03, desa Widoro, Pacitan, Jawa Timur. Alamat tersebut adalah alamat satu-satunya toko kami, selengkapnya dapat dilihat di halaman tentang atau kontak kami.
+                    Yozora Bookstore dapat Anda datangi di Jl. A. Yani No.189, Krajan, Kedungjambe, Singgahan, Kabupaten Tuban, Jawa Timur 62361. Alamat tersebut adalah alamat satu-satunya toko kami, selengkapnya dapat dilihat di halaman tentang atau kontak kami.
                 </p>
               </div>
               <div class="acc-panel">
@@ -54,7 +54,7 @@
               </div>
               <div class="service-text">
                 <h3>No. Hp</h3>
-                <p>+6287739211471</p>
+                <p>+6281332565853</p>
               </div>
             </div>
             <div class="service-item-box mb-30">
@@ -63,17 +63,10 @@
               </div>
               <div class="service-text">
                 <h3>E-mail</h3>
-                <p>rinoridlojulianto@gmail.com</p>
+                <p>prayogabismap@gmail.com</p>
               </div>
             </div>
-            <div class="service-item-box mb-40">
-              <div class="icon-holder">
-                <i class="fa fa-telegram"></i>
-              </div>
-              <div class="service-text">
-                <h3>Telegram</h3>
-                <p><a href="https://t.me/@ZurinArctus">t.me/@ZurinArctus</a></p>
-              </div>
+           
             </div>
           </div> <!-- end col -->
 

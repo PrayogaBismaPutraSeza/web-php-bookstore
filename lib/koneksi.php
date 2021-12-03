@@ -1,9 +1,9 @@
 <?php
     date_default_timezone_set("Asia/Jakarta");
-    $host ="sql12.freemysqlhosting.net";
-    $user ="sql12200915";
-    $pass = "P1BrYT9hmJ";
-    $dbName = "sql12200915";
+    $host ="172.17.0.1";
+    $user ="admin";
+    $pass = "f865b53623b121fd34ee5426c792e5c33af8c227";
+    $dbName = "buku";
 
     $konek = mysqli_connect($host,$user,$pass);
     if(!$konek)

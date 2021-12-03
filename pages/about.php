@@ -17,12 +17,12 @@
           <div class="col-sm-8">
             <h4 class="about-intro uppercase">tentang toko kami</h4>
             <p align="justify">
-                Zurin Bookstore menjual berbagai macam kategori buku dari komik hingga novel fiksi, serta buku ilmiah lain dengan harga yang bersaing dan kualitas terjamin. Website ini dibuat dengan tujuan agar pelanggan kami dapat mengetahui buku rilis terbaru di toko kami, beserta stok buku yang tersedia. Anda dapat mengunjungi toko fisik kami di alamat: Jl. Tentara Pelajar no. 111, RT3/03 desa Widoro, Kec. Pacitan, Kab. Pacitan, Jawa Timur, Kode Pos 63551.
+                Yozora Bookstore menjual berbagai macam kategori buku dari komik hingga novel fiksi, serta buku ilmiah lain dengan harga yang bersaing dan kualitas terjamin. Website ini dibuat dengan tujuan agar pelanggan kami dapat mengetahui buku rilis terbaru di toko kami, beserta stok buku yang tersedia. Anda dapat mengunjungi toko fisik kami di alamat: Jl. A. Yani No.189, Krajan, Kedungjambe, Singgahan, Kabupaten Tuban, Jawa Timur 62361.
             </p>
           </div>
           <div class="col-sm-3 col-sm-offset-1">
             <div class="statistic">
-              <span>2017</span>
+              <span>2021</span>
               <h4 class="uppercase">tahun didirikan</h4>
             </div>            
           </div>
@@ -48,7 +48,7 @@
 
         <div class="row">
           <div class="col-md-3 col-sm-6 mb-50">
-            <a href="https://facebook.com/RynoVengeance" target="_blank">
+            <a href="https://www.facebook.com/p.bismaps" target="_blank">
             <div class="service-item-box style-2 primary">
               <div class="icon-holder social-icons rounded">
                 <span class="social_facebook"></span>
@@ -60,7 +60,7 @@
             </a>            
           </div>
           <div class="col-md-3 col-sm-6 mb-50">
-            <a href="https://twitter.com/@Ryno_Vengenz" target="_blank">
+            <a href="https://twitter.com/yozoraid" target="_blank">
             <div class="service-item-box style-2 info">
               <div class="icon-holder social-icons rounded">
                 <span class="social_twitter"></span>
@@ -72,7 +72,7 @@
             </a>            
           </div>
           <div class="col-md-3 col-sm-6 mb-50">
-            <a href="https://instagram.com/zurin_arctus" target="_blank">
+            <a href="https://instagram.com/yozora_id" target="_blank">
             <div class="service-item-box style-2 warning">
               <div class="icon-holder social-icons rounded">
                 <span class="social_instagram"></span>
